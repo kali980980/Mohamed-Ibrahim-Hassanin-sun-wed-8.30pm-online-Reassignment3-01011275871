@@ -1,0 +1,12 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "Assignment 3 - Node.js streams, CRUD API, and internals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

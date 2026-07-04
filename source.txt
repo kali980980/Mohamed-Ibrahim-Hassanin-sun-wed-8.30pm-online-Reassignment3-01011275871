@@ -1,0 +1,2 @@
+Hello! This is the source file.
+It will be copied to dest.txt using readable and writable streams.
